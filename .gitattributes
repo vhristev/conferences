@@ -1,0 +1,6 @@
+OpenFest-2022-kubernetes-networking-101.pdf filter=lfs diff=lfs merge=lfs -text
+OpenFest-2023-nsa-kubernetes-hardering.pdf filter=lfs diff=lfs merge=lfs -text
+VarnaConf-2024-the-4c-levels.pdf filter=lfs diff=lfs merge=lfs -text
+BurgasConf-2024-cotainers-security.pdf filter=lfs diff=lfs merge=lfs -text
+CNCF-meetup-2024-may-owasp-top-10.pdf filter=lfs diff=lfs merge=lfs -text
+CNCF-meetup-2023-containers-security-artifacts.pdf filter=lfs diff=lfs merge=lfs -text
